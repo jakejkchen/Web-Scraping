@@ -1,0 +1,1 @@
+This project uses Python Scrapy package to scrape the phoen rating information from Best Buy website. The `phonelist` folder is the Scrapy project to download all the phone listing links. The `allphone` project then went through all the links downloaded and scraped phone rating information, including rating, carrier, date of the comment, phone model, and recommend or not.
